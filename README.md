@@ -1,2 +1,2 @@
-# achievements-lab
+lab
 Personal sandbox
